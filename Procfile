@@ -1,1 +1,1 @@
-web: gunicorn bogus:app
+web: gunicorn -w 4 bogus:app
