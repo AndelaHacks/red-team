@@ -80,3 +80,4 @@ Werkzeug==0.14.1
 wordninja==0.1.5
 wrapt==1.10.11
 yarl==1.2.6
+-e git+https://github.com/abenassi/Google-Search-API
